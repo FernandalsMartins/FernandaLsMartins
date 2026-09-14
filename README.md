@@ -21,24 +21,6 @@ Minha experiência anterior em vendas fortaleceu minha comunicação e minha esc
 | **Ferramentas corporativas** | Microsoft 365, OneDrive, SharePoint e certificados digitais A1 e A3. |
 | **Pessoas e conhecimento** | Treinamentos para usuários e jovens aprendizes sobre ferramentas corporativas, LGPD e boas práticas de tecnologia. |
 
-## Projeto em destaque · CEN
-
-### Sistema Inteligente de Gestão e Controle
-
-Desenvolvi o **CEN** para apoiar o gerenciamento de estoque, ativos e finanças empresariais. O projeto une minha experiência na operação de TI ao desenvolvimento de uma solução para organizar informações e apoiar a tomada de decisões.
-
-**Minha participação:** análise de requisitos, modelagem do banco de dados, desenvolvimento da interface, relatórios, controle de acessos e funcionalidades de automação.
-
-**Tecnologias:** Python e PostgreSQL, com apoio do ChatGPT no desenvolvimento.
-
-**Funcionamento:** operação offline, com backups automáticos do banco de dados em nuvem pelo OneDrive. O sistema também conta com um assistente inteligente integrado, denominado CEN.
-
-**Aplicação:** utilizado pela MJRE Construtora e pela Mega Proteção Veicular.
-
-> **Uma decisão do projeto:** o funcionamento local e os backups em nuvem cumprem papéis diferentes. O CEN opera offline, enquanto o OneDrive é utilizado para as cópias do banco de dados em nuvem.
-
-Esta apresentação descreve o projeto e minha contribuição. As 16 capturas comentadas estão disponíveis no [portfólio visual](https://fernandalsmartins.github.io/FernandaLsMartins/#telas-cen). O código do sistema CEN não está incluído neste repositório.
-
 ## Minha trajetória
 
 ### MJRE Construtora · Auxiliar técnico de TI
@@ -63,6 +45,24 @@ Cursos complementares pela Estácio:
 - Análise de problemas e soluções para a comunidade.
 
 Na formação, estudei temas como infraestrutura de redes, segurança da informação, gerenciamento de riscos, ITIL, Scrum, análise de dados, Python, R e SQL.
+
+## Competências aplicadas · Projeto pessoal CEN
+
+### Sistema Inteligente de Gestão e Controle
+
+Desenvolvi o **CEN** para apoiar o gerenciamento de estoque, ativos e finanças empresariais. O projeto une minha experiência na operação de TI ao desenvolvimento de uma solução para organizar informações e apoiar a tomada de decisões.
+
+**Minha participação:** análise de requisitos, modelagem do banco de dados, desenvolvimento da interface, relatórios, controle de acessos e funcionalidades de automação.
+
+**Tecnologias:** Python e PostgreSQL, com apoio do ChatGPT no desenvolvimento.
+
+**Funcionamento:** operação offline, com backups automáticos do banco de dados em nuvem pelo OneDrive. O sistema também conta com um assistente inteligente integrado, denominado CEN.
+
+**Situação atual:** projeto pessoal, ainda não utilizado por empresas.
+
+> **Uma decisão do projeto:** o funcionamento local e os backups em nuvem cumprem papéis diferentes. O CEN opera offline, enquanto o OneDrive é utilizado para as cópias do banco de dados em nuvem.
+
+Esta apresentação descreve o projeto e minha contribuição. As 16 capturas comentadas estão disponíveis no [portfólio visual](https://fernandalsmartins.github.io/FernandaLsMartins/#telas-cen). O código do sistema CEN não está incluído neste repositório.
 
 ## Vamos conversar
 
