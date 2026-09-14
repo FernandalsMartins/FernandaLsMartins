@@ -10,7 +10,11 @@ Conheça minha atuação e o projeto CEN no meu site profissional.
 
 Minha formação é em Gestão da Tecnologia da Informação pela Estácio. Atuo com suporte a usuários, infraestrutura em obras, controle de ativos e licenças e qualidade dos serviços. Gosto de entender os problemas da rotina e transformar essas necessidades em soluções práticas.
 
-Minha experiência anterior em vendas fortaleceu minha comunicação e minha escuta. Hoje, levo esse cuidado com as pessoas para o suporte e para os treinamentos que realizo.
+Comecei em vendas, ajudando minha mãe com vestidos de festa. Depois, segui no setor comercial, onde desenvolvi comunicação, escuta, negociação e a capacidade de entender problemas. O interesse por redes, hardware e suporte já fazia parte da minha vida.
+
+Uma conversa com uma cliente de 60 anos que estava concluindo a faculdade me incentivou a retomar os estudos. Fiz o Encceja, concluí o ensino médio e iniciei minha graduação em Gestão da Tecnologia da Informação.
+
+Entrei na área por um estágio em uma empresa de construção civil e fui efetivada em menos de cinco meses. Hoje, uno conhecimento técnico à escuta para entender o que pode ajudar no dia a dia dos colaboradores.
 
 ## Como eu atuo
 
@@ -19,7 +23,7 @@ Minha experiência anterior em vendas fortaleceu minha comunicação e minha esc
 | **Suporte e infraestrutura** | Atendimento a usuários, configuração de equipamentos e redes, fibra óptica e apoio à infraestrutura em obras e ambientes externos. |
 | **Ativos e processos** | Controle de ativos e licenças, organização de recursos e atenção à qualidade dos serviços. |
 | **Ferramentas corporativas** | Microsoft 365, OneDrive, SharePoint e certificados digitais A1 e A3. |
-| **Pessoas e conhecimento** | Treinamentos para usuários e jovens aprendizes sobre ferramentas corporativas, LGPD e boas práticas de tecnologia. |
+| **Pessoas e conhecimento** | Treinamentos sobre ferramentas corporativas, segurança da informação e LGPD para mais de 400 usuários distribuídos entre operações e unidades. |
 
 ## Minha trajetória
 
@@ -69,3 +73,5 @@ Esta apresentação descreve o projeto e minha contribuição. As 16 capturas co
 Tenho interesse em oportunidades que conectem **suporte, infraestrutura, gestão de TI e melhoria de processos**.
 
 [**Entre em contato por e-mail ↗**](mailto:Fernandallsmartins@gmail.com)
+
+[**Conecte-se comigo no LinkedIn ↗**](https://www.linkedin.com/in/fernanda-martins-313251281/)
