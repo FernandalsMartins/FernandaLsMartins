@@ -37,7 +37,7 @@ Desenvolvi o **CEN** para apoiar o gerenciamento de estoque, ativos e finanças 
 
 > **Uma decisão do projeto:** o funcionamento local e os backups em nuvem cumprem papéis diferentes. O CEN opera offline, enquanto o OneDrive é utilizado para as cópias do banco de dados em nuvem.
 
-Esta apresentação descreve o projeto e minha contribuição. O código e as telas do CEN não estão incluídos neste repositório.
+Esta apresentação descreve o projeto e minha contribuição. As 16 capturas comentadas estão disponíveis no [portfólio visual](https://fernandalsmartins.github.io/FernandaLsMartins/#telas-cen). O código do sistema CEN não está incluído neste repositório.
 
 ## Minha trajetória
 
