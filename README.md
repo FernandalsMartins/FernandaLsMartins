@@ -86,11 +86,13 @@ Desenvolvi o **CEN** para apoiar o gerenciamento de estoque, ativos e finanças 
 
 **Funcionamento:** operação offline, com backups automáticos do banco de dados em nuvem pelo OneDrive. O sistema também conta com um assistente inteligente integrado, denominado CEN.
 
+**Notificações:** implementei avisos a cada 30 minutos para destacar informações importantes durante o uso do sistema, como produtos com estoque abaixo do mínimo que precisam de reposição.
+
 **Situação atual:** projeto pessoal, ainda não utilizado por empresas.
 
 > **Uma decisão do projeto:** o funcionamento local e os backups em nuvem cumprem papéis diferentes. O CEN opera offline, enquanto o OneDrive é utilizado para as cópias do banco de dados em nuvem.
 
-Esta apresentação descreve o projeto e minha contribuição. As 16 capturas comentadas estão disponíveis no [portfólio visual](https://fernandalsmartins.github.io/FernandaLsMartins/#telas-cen). O código do sistema CEN não está incluído neste repositório.
+Esta apresentação descreve o projeto e minha contribuição. As 17 capturas comentadas estão disponíveis no [portfólio visual](https://fernandalsmartins.github.io/FernandaLsMartins/#telas-cen). O código do sistema CEN não está incluído neste repositório.
 
 ## Vamos conversar
 
