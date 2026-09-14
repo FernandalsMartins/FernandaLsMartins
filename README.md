@@ -2,6 +2,10 @@
 
 # Olá, sou a Fernanda Martins 👋
 
+## [Visite meu portfólio completo ↗](https://fernandalsmartins.github.io/FernandaLsMartins/)
+
+Conheça minha atuação e o projeto CEN no meu site profissional.
+
 **Conecto suporte, infraestrutura e gestão de TI para fazer a operação funcionar.**
 
 Minha formação é em Gestão da Tecnologia da Informação pela Estácio. Atuo com suporte a usuários, infraestrutura em obras, controle de ativos e licenças e qualidade dos serviços. Gosto de entender os problemas da rotina e transformar essas necessidades em soluções práticas.
