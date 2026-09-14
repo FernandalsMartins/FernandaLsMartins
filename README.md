@@ -102,4 +102,3 @@ Tenho interesse em oportunidades que conectem **suporte, infraestrutura, gestão
 
 [**Conecte-se comigo no LinkedIn ↗**](https://www.linkedin.com/in/fernanda-martins-313251281/)
 
-[**Baixar meu currículo em PDF ↓**](docs/Fernanda-Martins-Curriculo.pdf)
