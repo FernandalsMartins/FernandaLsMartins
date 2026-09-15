@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Fernanda Martins</title>
-  <desc id="desc">Suporte, infraestrutura e gestão de TI. Tecnologia que faz a operação funcionar.</desc>
-  <rect width="1200" height="280" rx="18" fill="#1236a4"/>
-  <rect x="52" y="49" width="45" height="5" rx="2" fill="#a9c8ff"/>
-  <text x="52" y="111" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">Fernanda Martins</text>
-  <text x="54" y="162" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="26">Suporte, infraestrutura e gestão de TI</text>
-  <text x="54" y="224" fill="#dce8ff" font-family="Segoe UI,Arial,sans-serif" font-size="21">Tecnologia que faz a operação funcionar.</text>
-  <text x="1030" y="170" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="75" font-weight="700">fm</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340"><rect width="1200" height="340" rx="20" fill="#eef4ff"/><path d="M900 0h280q20 0 20 20v300q0 20-20 20H900Z" fill="#1946ae"/><text x="52" y="58" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#1946ae">PORTFÓLIO PROFISSIONAL</text><text x="48" y="142" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#11294f">Fernanda Martins</text><text x="52" y="190" font-family="Arial,sans-serif" font-size="26" fill="#1946ae">Suporte, infraestrutura e gestão de TI</text><path d="M52 225H830" stroke="#c4d4f1"/><text x="52" y="264" font-family="Arial,sans-serif" font-size="21" fill="#445b7c">Das vendas à tecnologia.</text><text x="52" y="297" font-family="Arial,sans-serif" font-size="21" fill="#445b7c">Pessoas, aprendizado e soluções.</text><text x="1045" y="193" text-anchor="middle" font-family="Arial,sans-serif" font-size="110" font-weight="700" fill="white">fm.</text><path d="M955 231h180" stroke="#769ceb"/><text x="1045" y="266" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#dce8ff">TECNOLOGIA E PESSOAS</text></svg>

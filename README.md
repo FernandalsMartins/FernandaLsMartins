@@ -1,10 +1,18 @@
-![Fernanda Martins — Suporte, infraestrutura e gestão de TI](assets/cabecalho.svg)
+<p align="center"><img src="assets/cabecalho.svg" width="100%" alt="Fernanda Martins — Suporte, infraestrutura e gestão de TI"></p>
 
-# Olá, sou a Fernanda Martins 👋
+<p align="center">
+<a href="https://fernandalsmartins.github.io/FernandaLsMartins/"><img src="assets/portfolio.svg" width="190" alt="Ver portfólio"></a>
+<a href="https://www.linkedin.com/in/fernanda-martins-313251281/"><img src="assets/linkedin.svg" width="190" alt="LinkedIn"></a>
+<a href="mailto:Fernandallsmartins@gmail.com"><img src="assets/contato.svg" width="190" alt="Enviar e-mail"></a>
+</p>
 
-## [Visite meu portfólio completo ↗](https://fernandalsmartins.github.io/FernandaLsMartins/)
+<p align="center"><a href="#minha-historia">Minha história</a> · <a href="#atuacao">Atuação</a> · <a href="#experiencia">Experiência</a> · <a href="#formacao">Formação</a> · <a href="#cen">Projeto CEN</a></p>
 
-Conheça minha atuação e o projeto CEN no meu site profissional.
+---
+
+<a id="minha-historia"></a>
+
+## Minha história, por mim
 
 Sou uma pessoa comunicativa, empática, ética e apaixonada por aprender e enfrentar novos desafios.
 
@@ -25,7 +33,11 @@ Minha trajetória me ensinou que tecnologia não é apenas sobre sistemas, equip
 
 E continuo aprendendo. Sempre.
 
-## Como eu atuo
+---
+
+<a id="atuacao"></a>
+
+## Minha atuação
 
 | Frente | Minha experiência |
 | --- | --- |
@@ -33,6 +45,10 @@ E continuo aprendendo. Sempre.
 | **Ativos e processos** | Controle de ativos e licenças, organização de recursos e atenção à qualidade dos serviços. |
 | **Ferramentas corporativas** | Microsoft 365, OneDrive, SharePoint e certificados digitais A1 e A3. |
 | **Pessoas e conhecimento** | Treinamentos sobre ferramentas corporativas, segurança da informação e LGPD para mais de 400 usuários distribuídos entre operações e unidades. |
+
+---
+
+<a id="experiencia"></a>
 
 ## Experiência profissional
 
@@ -45,6 +61,10 @@ Responsável pelo suporte técnico a empresas como Petrobras e Ternium, atuando 
 **Maio de 2025 — setembro de 2025**
 
 Responsável pelo suporte técnico a usuários, configuração e manutenção de equipamentos de rede, gerenciamento de arquivos em nuvem com Microsoft 365 e OneDrive, suporte a sistemas corporativos, instalação de certificados digitais A1 e A3 e apoio à infraestrutura de TI em obras e ambientes externos.
+
+---
+
+<a id="formacao"></a>
 
 ## Formação e aprendizado
 
@@ -74,7 +94,11 @@ Pensamento crítico, identificação de necessidades, trabalho em equipe, planej
 
 Comunicação, resolução de problemas, gerenciamento de conflitos, aprendizado rápido e escuta ativa. Experiência com Microsoft 365, gerenciamento de nuvem com OneDrive, SharePoint, certificados digitais A1 e A3 e infraestrutura de rede em locais isolados.
 
-## Competências aplicadas · Projeto pessoal CEN
+---
+
+<a id="cen"></a>
+
+## CEN · Meu conhecimento em prática
 
 ### Sistema Inteligente de Gestão e Controle
 
@@ -94,6 +118,8 @@ Desenvolvi o **CEN** para apoiar o gerenciamento de estoque, ativos e finanças 
 
 Esta apresentação descreve o projeto e minha contribuição. As 17 capturas comentadas estão disponíveis no [portfólio visual](https://fernandalsmartins.github.io/FernandaLsMartins/#telas-cen). O código do sistema CEN não está incluído neste repositório.
 
+---
+
 ## Vamos conversar
 
 Tenho interesse em oportunidades que conectem **suporte, infraestrutura, gestão de TI e melhoria de processos**.
@@ -101,4 +127,3 @@ Tenho interesse em oportunidades que conectem **suporte, infraestrutura, gestão
 [**Entre em contato por e-mail ↗**](mailto:Fernandallsmartins@gmail.com)
 
 [**Conecte-se comigo no LinkedIn ↗**](https://www.linkedin.com/in/fernanda-martins-313251281/)
-
