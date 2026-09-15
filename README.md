@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/cabecalho.svg" width="100%" alt="Fernanda Martins — Suporte, infraestrutura e gestão de TI"></p>
+<p align="center"><img src="assets/perfil-fernanda.svg" width="100%" alt="Fernanda Martins — Suporte, infraestrutura e gestão de TI"></p>
 
 <p align="center">
 <a href="https://fernandalsmartins.github.io/FernandaLsMartins/"><img src="assets/portfolio.svg" width="190" alt="Ver portfólio"></a>
