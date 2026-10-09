@@ -73,7 +73,7 @@ Atuação nas mesmas frentes de suporte técnico, administração de usuários, 
 
 **Gestão da Tecnologia da Informação · Estácio · 2026**
 
-Na graduação, estudei gerenciamento de riscos, gestão de pessoas, infraestrutura de redes, datacenter, análise e gerenciamento de dados, ITIL, Scrum, segurança da informação, Python, R, SQL, LGPD, suporte corporativo e processos tecnológicos.
+Na graduação, estudei gerenciamento de riscos, gestão de pessoas, infraestrutura e arquitetura de redes, engenharia de software, datacenter, análise e gerenciamento de dados, ITIL, Scrum, segurança da informação, Python, R, SQL, LGPD, suporte corporativo e processos tecnológicos.
 
 ### Cursos complementares · Estácio
 
