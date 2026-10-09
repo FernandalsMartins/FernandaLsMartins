@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://fernandalsmartins.github.io/FernandaLsMartins/"><img src="assets/portfolio.svg" width="190" alt="Ver portfólio"></a>
 <a href="https://www.linkedin.com/in/fernanda-martins-313251281/"><img src="assets/linkedin.svg" width="190" alt="LinkedIn"></a>
-<a href="mailto:Fernandallsmartins@gmail.com"><img src="assets/contato.svg" width="190" alt="Enviar e-mail"></a>
+<a href="mailto:fernandallsmartins@gmail.com"><img src="assets/contato.svg" width="190" alt="Enviar e-mail"></a>
 </p>
 
 <p align="center"><a href="#minha-historia">Minha história</a> · <a href="#atuacao">Atuação</a> · <a href="#experiencia">Experiência</a> · <a href="#formacao">Formação</a> · <a href="#cen">Projeto CEN</a></p>
@@ -14,24 +14,13 @@
 
 ## Minha história, por mim
 
-Sou uma pessoa comunicativa, empática, ética e apaixonada por aprender e enfrentar novos desafios.
+Minha trajetória profissional começou na área comercial, com vendas, marketing, treinamento de equipes e meu próprio negócio. Essas experiências me ensinaram sobre pessoas, comunicação, responsabilidade e como lidar com desafios.
 
-Minha trajetória profissional começou cedo, na área de vendas, ajudando minha mãe com vestidos de festa e, posteriormente, seguindo profissionalmente no setor comercial. Foi nesse ambiente que desenvolvi habilidades que carrego até hoje: comunicação, escuta, negociação, relacionamento com pessoas e, principalmente, a capacidade de entender problemas e buscar soluções.
+A tecnologia sempre foi uma paixão. Depois de encerrar meu negócio durante a pandemia, decidi seguir esse antigo sonho e comecei minha graduação em Gestão da Tecnologia da Informação.
 
-A tecnologia, porém, sempre esteve presente na minha vida. Mesmo sem atuar formalmente na área, sempre tive interesse por redes, hardware e suporte, e frequentemente acabava ajudando com questões de tecnologia nas empresas em que trabalhava.
+Foi assim que surgiu minha oportunidade na MJRE: comecei como estagiária e, após cinco meses, fui efetivada. Concluí minha graduação enquanto trabalhava e hoje sigo crescendo na área, aprendendo, criando soluções e ajudando pessoas por meio da tecnologia.
 
-Por precisar trabalhar, interrompi meus estudos ainda jovem e, durante muito tempo, tive apenas o ensino médio incompleto. Até que uma conversa mudou minha perspectiva: uma cliente de 60 anos me contou que estava concluindo sua faculdade. Aquilo me mostrou, de uma forma muito simples, que nunca era tarde para recomeçar.
-No mesmo ano, fiz o Encceja, concluí o ensino médio e iniciei minha graduação em Gestão da Tecnologia da Informação.
-
-Minha entrada profissional na área de TI aconteceu por meio de um estágio em uma empresa de construção civil. Em menos de cinco meses, fui efetivada e passei a assumir responsabilidades cada vez maiores.
-
-Hoje, atuo com suporte técnico, infraestrutura, redes, segurança da informação e controle de ativos e estoque. Também ministro treinamentos sobre ferramentas corporativas, segurança da informação e LGPD para mais de 400 usuários distribuídos entre operações e unidades como Petrobras, Ternium e outras.
-
-Paralelamente, desenvolvo um sistema inteligente de gestão e controle de almoxarifado, todo em python usando PostgreSQL , aplicando tecnologia para resolver problemas que observo no próprio ambiente de trabalho.
-
-Minha trajetória me ensinou que tecnologia não é apenas sobre sistemas, equipamentos ou códigos. É, principalmente, sobre entender problemas, aprender continuamente e construir soluções que realmente façam diferença para as pessoas e para o negócio, principalmente escutar e entender de fato o que pode ajudar no dia a dia dos colaboradores.
-
-E continuo aprendendo. Sempre.
+Busco fazer parte de uma empresa que valorize inovação, criatividade e evolução contínua. Quero contribuir com ideias, desenvolver soluções e implementar melhorias, em um ambiente de aprendizado e troca de conhecimentos.
 
 ---
 
@@ -55,12 +44,26 @@ E continuo aprendendo. Sempre.
 ### MJRE Construtora · Auxiliar técnico de TI
 **Setembro de 2025 — atual**
 
-Responsável pelo suporte técnico a empresas como Petrobras e Ternium, atuando com infraestrutura de TI em obras, controle de ativos e licenças e suporte presencial em diferentes estados do Brasil. Instalação e configuração de redes, câmeras e pontos de internet utilizando fibra óptica. Realização de treinamentos para jovens aprendizes e usuários sobre LGPD, ferramentas corporativas e boas práticas de tecnologia. Atuação em atividades técnicas em altura acima de 6 metros e em ambientes externos.
+- **Suporte técnico e operações:** Atendimento presencial e remoto de chamados N2/N3, diagnóstico, resolução de incidentes e acompanhamento de tickets. Suporte às operações da Petrobras (REPAR, REFAP, REVAP, RECAP, RPBC, SIX e ICC) e da Ternium.
+
+- **Usuários e acessos:** Administração de contas no Active Directory e Microsoft 365: criação de usuários, configuração de e-mails, redefinição de senhas e controle de permissões.
+
+- **SharePoint Online:** Administração e organização de bibliotecas de documentos, estruturação de espaços para gestão documental, gerenciamento de permissões e monitoramento do armazenamento.
+
+- **Infraestrutura e redes:** Suporte a Windows 10/11, Windows Server, Microsoft 365, Outlook, Microsoft Project, OneDrive e impressoras. Instalação e manutenção de redes, organização de racks, cabeamento e fibra óptica, configuração de gateways, roteadores e Wi-Fi com equipamentos Ubiquiti.
+
+- **Tecnologia em campo:** Instalação e manutenção de câmeras de segurança (CFTV), rádios de comunicação e equipamentos de rede, incluindo intervenções técnicas em altura superior a 6 metros.
+
+- **Manutenção e gestão de ativos:** Diagnóstico e manutenção de computadores, inventário de TI, controle de notebooks e acompanhamento de entregas e devoluções de equipamentos.
+
+- **Automação e desenvolvimento:** Automação de processos e rotinas administrativas com Power Automate e desenvolvimento de soluções internas para otimização de processos.
+
+- **Sistemas corporativos:** Suporte a Globaltech, Alterdata, e-Contador, Flit, plataformas jurídicas municipais e serviços governamentais. Instalação, configuração e suporte a certificados digitais A1 e A3.
 
 ### MJRE Construtora · Estágio em TI
 **Maio de 2025 — setembro de 2025**
 
-Responsável pelo suporte técnico a usuários, configuração e manutenção de equipamentos de rede, gerenciamento de arquivos em nuvem com Microsoft 365 e OneDrive, suporte a sistemas corporativos, instalação de certificados digitais A1 e A3 e apoio à infraestrutura de TI em obras e ambientes externos.
+Atuação nas mesmas frentes de suporte técnico, administração de usuários, sistemas corporativos, manutenção de equipamentos e infraestrutura de TI. Após cinco meses de estágio, fui efetivada como auxiliar técnico de TI.
 
 ---
 
@@ -98,25 +101,20 @@ Comunicação, resolução de problemas, gerenciamento de conflitos, aprendizado
 
 <a id="cen"></a>
 
-## CEN · Meu conhecimento em prática
+## FCData CEN · Projeto próprio de desenvolvimento de software
 
-### Sistema Inteligente de Gestão e Controle
+Idealizei e desenvolvi, ao longo de seis meses, um sistema de gestão de almoxarifado com funcionamento **offline**, pensado para manter as operações mesmo sem acesso à internet. Conduzi a definição das funcionalidades, os ajustes e a validação do sistema, com apoio do **Codex** na criação de códigos.
 
-Desenvolvi o **CEN** para apoiar o gerenciamento de estoque, ativos e finanças empresariais. O projeto une minha experiência na operação de TI ao desenvolvimento de uma solução para organizar informações e apoiar a tomada de decisões.
+- **Interface e dados:** Python, SQL, PostgreSQL, Psycopg e PySide6/Qt.
+- **Relatórios e análises:** ReportLab para PDF, OpenPyXL para Excel e Matplotlib para gráficos gerenciais.
+- **Distribuição Windows:** PyInstaller e Inno Setup.
+- **Funcionalidades:** estoque, entradas e saídas, transferências, empréstimos e devoluções, orçamento, veículos, perdas e avarias, relatórios e CEN Assistente, além de controle de acesso, auditoria e backups.
 
-**Minha participação:** análise de requisitos, modelagem do banco de dados, desenvolvimento da interface, relatórios, controle de acessos e funcionalidades de automação.
+O backup automático é configurável e executado enquanto o sistema está aberto e em execução. Os dados e os backups ficam sob o controle da empresa contratante.
 
-**Tecnologias:** Python e PostgreSQL, com apoio do ChatGPT no desenvolvimento.
+[**Conheça o site do FCData CEN ↗**](https://fcdata-cen.pages.dev/)
 
-**Funcionamento:** operação offline, com backups automáticos do banco de dados em nuvem pelo OneDrive. O sistema também conta com um assistente inteligente integrado, denominado CEN.
-
-**Notificações:** implementei avisos a cada 30 minutos para destacar informações importantes durante o uso do sistema, como produtos com estoque abaixo do mínimo que precisam de reposição.
-
-**Situação atual:** projeto pessoal, ainda não utilizado por empresas.
-
-> **Uma decisão do projeto:** o funcionamento local e os backups em nuvem cumprem papéis diferentes. O CEN opera offline, enquanto o OneDrive é utilizado para as cópias do banco de dados em nuvem.
-
-Esta apresentação descreve o projeto e minha contribuição. As 17 capturas comentadas estão disponíveis no [portfólio visual](https://fernandalsmartins.github.io/FernandaLsMartins/#telas-cen). O código do sistema CEN não está incluído neste repositório.
+As 17 capturas comentadas estão no [portfólio visual](https://fernandalsmartins.github.io/FernandaLsMartins/#telas-cen). O código do sistema CEN não está incluído neste repositório.
 
 ---
 
@@ -124,6 +122,9 @@ Esta apresentação descreve o projeto e minha contribuição. As 17 capturas co
 
 Tenho interesse em oportunidades que conectem **suporte, infraestrutura, gestão de TI e melhoria de processos**.
 
-[**Entre em contato por e-mail ↗**](mailto:Fernandallsmartins@gmail.com)
+[**Entre em contato por e-mail ↗**](mailto:fernandallsmartins@gmail.com)
 
 [**Conecte-se comigo no LinkedIn ↗**](https://www.linkedin.com/in/fernanda-martins-313251281/)
+
+Duque de Caxias · Rio de Janeiro
+[**WhatsApp: (21) 98320-8757 ↗**](https://wa.me/5521983208757)
